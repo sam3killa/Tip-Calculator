@@ -4,5 +4,4 @@ A tip calculator that will calculate how much tip a user should give.
 
 Time Spent: 5 hours
 
-(Tip Calculator Gif.gif)
-
+Gif in the repository. 
